@@ -1,4 +1,8 @@
-## Hi there 👋
+##  👋 Hi, I'm Andres
+
+- I have experience with many different languages and technologies, and I especially love working with Python.
+- I have previously worked as a software engineering intern, both at large and small companies, with diverse work in both front-end and back-end projects
+- I'm passionate about open-source software, and especially game development! Feel free to reach out!
 
 <!--
 **Andres-Martell/Andres-Martell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
